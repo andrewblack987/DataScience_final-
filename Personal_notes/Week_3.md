@@ -1,4 +1,4 @@
-* Notes for Week 3 *
+## Notes for Week 3##
 
 By cloning the repository you can get a local version synhced with Github, where downloading will just give you a Zip file
 
